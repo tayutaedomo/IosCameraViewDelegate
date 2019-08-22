@@ -1,0 +1,2 @@
+# IosCameraViewDelegate
+Try AVCaptureVideoDataOutputSampleBufferDelegate
